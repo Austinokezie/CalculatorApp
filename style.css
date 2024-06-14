@@ -68,3 +68,14 @@ form input.equal{
     width: 145px;
     background: #ff9f0a;
 }
+
+@media screen and (max-width: 477px) {
+    .calculator {
+        height: 100vh;
+        width: 100%;
+        position: fixed;
+        background: rgb(0, 0, 0);
+       
+        
+    }
+}
